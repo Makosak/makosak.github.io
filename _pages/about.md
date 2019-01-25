@@ -23,7 +23,11 @@ My favorite tools are python, R, javascript, & POSTGIS. I’m also very interest
 
 My Background
 -------
-A lot of people ask me how I found my place studying "place." I was trained as a geologist at University of Illinois at Urbana-Champaign, where I was lucky enough to learn from the Greats of Field Geology including Stephen Marshak, Kurt Burmeister, Craig Lundstrom, and Stephen Hurst. There I caught the love for the detective chase in decoding complex phenomena with scientific thinking, careful data preparation, and rigorous process. I learned GIS at the Illinois State Geological Survey, and then interned at the US Geological Survey center in St. Petersburg, Florida. After a few years of travel, writing, and career exploration, I exported my database and writing skills to the Feinberg School of Medicine at Northwestern, where I found an incubator-like community of public health scientists and medical researchers. I pursued a M.S. in GIS while working, and finally found my way to the Ph.D program at Arizona to work with the Anselin group. 
+A lot of people ask me how I found my place studying "place." I was trained as a geologist at University of Illinois at Urbana-Champaign, where I was lucky enough to learn from the Greats of Field Geology including Stephen Marshak, Kurt Burmeister, Craig Lundstrom, and Stephen Hurst. There I caught the love for the detective chase in decoding complex phenomena with scientific thinking, careful data preparation, and rigorous process. 
+
+I learned GIS at the Illinois State Geological Survey, and then interned at the US Geological Survey center in St. Petersburg, Florida. 
+
+After a few years of travel, writing, and career exploration, I exported my database and writing skills to the Feinberg School of Medicine at Northwestern, where I learned from an incubator-like community of public health scientists and medical researchers. I pursued a M.S. in GIS, and finally found my way to the Ph.D program at Arizona to work with the Anselin group. 
 
 I also enjoy writing lyrical nonfiction and poetry, and received my M.F.A. in writing from Roosevelt in 2011. I love my records almost as much as my terminal, as well as my family, Polish poster art, travel whenever possible, and mountain hikes.
 
