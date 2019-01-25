@@ -1,9 +1,9 @@
 ---
-title: "Intro to Spatial Analysis for Social Scientists"
+title: "Intro to GIS & Spatial Analysis for Social Scientists"
 collection: teaching
 type: "Undergraduate & Graduate"
 venue: "University of Chicago"
-date: 2019-01-01
+date: 2018-06-01
 location: "Chicago, USA"
 ---
 
