@@ -14,7 +14,7 @@ description              : &description "Quantitative Geographer & Health Data S
 url                      : https://makosak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "makosak/makosak.github.io"
-teaser                   : "bw_biopic.png"
+teaser                   : "marynia2.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Marynia Kolak"
-  avatar           : "bw_biopic.png"
+  avatar           : "marynia2.png"
   bio              : "PhD, MFA, MS"
   location         : "Chicago"
   employer         : 
