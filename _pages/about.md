@@ -12,9 +12,10 @@ I'm a Social Determinants of Health (SDOH) researcher using open science tools a
 
 I use applied geographic data science and spatial statistics and seek policy-driven, systems-integrating solutions. Active projects include:
 
-   - Assessing Vulnerability of Opioid Risk Environments in Rural Areas
-   - Social-Spatial Network Analytics for HIV Populations in Urban Areas
+   - Introducing Multidimensional Metrics for Social Determinants of Health
    - Identifying Neighborhood-Level Health Effects of Air Pollution in Urban Areas
+   - Defining and Ranking Opioid Risk Environments in Rural Areas
+   - Social-Spatial Network Analytics for HIV Populations in Urban Areas
 
 I’m the Assistant Director of Health Informatics at the Center for Spatial Data Science at University of Chicago, where I also teach full time as a Lecturer in Geographic Information Science.
 
