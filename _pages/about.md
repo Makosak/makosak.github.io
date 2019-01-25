@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I investigate issues of equity across space and time using applied spatial econometrics and statistics with policy-driven, systems-integrating solutions. I’m currently the Assistant Director of Health Informatics at the Center for Spatial Data Science at University of Chicago, where I also teach full time as a Lecturer in Geographic Information Science.
+I'm a Social Determinants of Health (SDOH) researcher using open science tools and exploratory data analytic approach to test multiple methods. My research centers on how "place" impacts health outcomes in different ways, for different people. 
 
-My current research intersects domains of food access, public health, and housing.
+I investigate issues of equity across space and time using applied geographic data science and spatial statistics with policy-driven, systems-integrating solutions. Active projects include:
+
+   - Assessing Vulnerability of Opioid Risk Environments in Rural Areas
+   - Social-Spatial Network Analytics for HIV Populations in Urban Areas
+   - Identifying Neighborhood-Level Health Effects of Air Pollution in Urban Areas
+
+I’m the Assistant Director of Health Informatics at the Center for Spatial Data Science at University of Chicago, where I also teach full time as a Lecturer in Geographic Information Science.
 
 My favorite tools are python, R, javascript, & POSTGIS. I’m also very interested in supporting elegant, powerful systems infrastructure for (big) spatial data and dynamic analysis. My graduate research in GIS at John Hopkins University emphasized social science modeling, knowledge engineering, and sound data infrastructures. In my PhD studies with the GeoDa Center at Arizona State University, I continued to work with data in geospatial analysis and modeling, further integrating dynamic decision science with causal inference & spatial effects research.
 
