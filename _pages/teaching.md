@@ -7,7 +7,7 @@ I see teaching in the dynamic Information Age as a collective activity, or dialo
 
 I see student fluency in contemporary technologies and media as a major asset in the classroom, and encourage students to build from those strengths. I also encourage students to embrace "making mistakes" as a core learning tenet, whether practising coding or composition. Mastering the art of troubleshooting is something we can all aspire to!
 
-========
+<h2> Experiences </h2>
 University of Chicago
 Instructor         Social Science Inquiry - Spatial Analysis Methods 2, Winter 2018 & 2019
 Instructor         Geographic Information Science II (Spatial Databases), Winter 2019
