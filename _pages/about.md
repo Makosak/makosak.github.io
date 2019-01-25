@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Social Determinants of Health (SDOH) researcher using open science tools and an exploratory data analytic approach to investigate issues of equity across space and time. I use applied geographic data science, quasi-experimental 'metrics, and statistics and seek policy-driven, systems-integrating solutions. 
+I'm a Social Determinants of Health (SDOH) researcher using open science tools and an exploratory data analytic approach to investigate issues of equity across space and time. I use applied geographic data science, quasi-experimental econometrics, and statistics to seek policy-driven, systems-integrating solutions. 
 
 My research centers on how "place" impacts health outcomes in different ways, for different people. Active projects include:
 
