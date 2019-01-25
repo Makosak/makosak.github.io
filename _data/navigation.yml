@@ -12,6 +12,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Notebooks"
+    url: /SpatialDataScience-Notebooks
         
   #- title: "News"
    # url: /year-archive/
