@@ -1,5 +1,5 @@
 ---
-title: "Geographic Information Science 2: Spatial Databases"
+title: "GEOG 2/38702: Geographic Information Science II, Spatial Databases"
 collection: teaching
 type: "Undergraduate & Graduate"
 venue: "University of Chicago"
