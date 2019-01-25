@@ -4,5 +4,6 @@ excerpt: "A spatial framework for distilling causal relationships considers a mo
 collection: portfolio
 ---
 
-
 With health inequalities increasing across major urban environments and potential place-based inequities under scrutiny, understanding treatment impacts across populations has become essential to local government and health department policy. This momentum is further heightened by calls to incorporate meaningful analytics with new types of Big Data in dynamic decision making. A core challenge to the determination of intervention efficacy remains in attributing underlying causal relationships where complicated processes may exist between individuals and neighborhoods. Spatial interaction and heterogeneity between units at individual or group levels can violate both components of the SUTVA assumption that are core to the counterfactual framework, making evaluation effects difficult to assess. A spatial framework for distilling causal relationships considers a more comprehensive understanding of how spatial effects may impact the data generating process, a more tuned approach to the nuances of how treatments may act differently in different places, and the extension and development of new tools to improve assignment and treatment estimates.
+
+Collaborator: Luc Anselin
