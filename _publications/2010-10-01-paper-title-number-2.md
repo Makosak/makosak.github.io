@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Urban foodscape trends: Disparities in healthy food access in Chicago, 2007–2014"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/ChiFoodAccess
+excerpt: 'We investigated changes in supermarket access in Chicago between 2007 and 2014.'
+date: 2018-07-01
+venue: 'Health and Place'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1353829217302009'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+We investigated changes in supermarket access in Chicago between 2007 and 2014, spanning The Great Recession, which we hypothesized worsened local food inequity. We mapped the average street network distance to the nearest supermarket across census tracts in 2007, 2011, and 2014, and identified spatial clusters of persistently low, high or changing access over time. Although the total number of supermarkets increased city-wide, extremely low food access areas in segregated, low income regions did not benefit. Among black and socioeconomically disadvantaged residents of Chicago, access to healthy food is persistently poor and worsened in some areas following recent economic shocks.
