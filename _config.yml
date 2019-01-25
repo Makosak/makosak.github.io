@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Marynia Kolak"
+  avatar           : "Marynia-biopic.png"
+  bio              : "Quantitative Geographer & Health Data Scientist"
+  location         : "Chicago"
+  employer         : "University of Chicago"
+  googlescholar    : "https://scholar.google.com/citations?user=ASYX51YAAAAJ&hl=en"
+  email            : "mkolak@uchicago.edu"
+  researchgate     : "https://www.researchgate.net/profile/Marynia_Kolak"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "makosak"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "maryniakolak"
   vine             :
   weibo            :
   xing             :
