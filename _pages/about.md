@@ -18,7 +18,7 @@ I use applied geographic data science and spatial statistics and seek policy-dri
 
 I’m the Assistant Director of Health Informatics at the Center for Spatial Data Science at University of Chicago, where I also teach full time as a Lecturer in Geographic Information Science.
 
-My favorite tools are python, R, javascript, & POSTGIS. I’m also very interested in supporting elegant, powerful systems infrastructure for (big) spatial data and dynamic analysis. My graduate research in GIS at John Hopkins University emphasized social science modeling, knowledge engineering, and sound data infrastructures. In my PhD studies with the GeoDa Center at Arizona State University, I continued to work with data in geospatial analysis and modeling, further integrating dynamic decision science with causal inference & spatial effects research.
+My favorite tools are R, POSTGIS, javascript, and python (depending on the job). I’m also very interested in supporting elegant, powerful systems infrastructure for (big) spatial data and dynamic analysis. My graduate research in GIS at John Hopkins University emphasized social science modeling, knowledge engineering, and sound data infrastructures. In my PhD studies with the GeoDa Center at Arizona State University, I continued to work with data in geospatial analysis and modeling, further integrating dynamic decision science with causal inference & spatial effects research.
 
 
 My Background
