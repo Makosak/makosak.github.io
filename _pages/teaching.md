@@ -16,26 +16,23 @@ University of Chicago
 <li> Instructor, Intro to GIS and Spatial Analysis for Social Sciences, Summer 2018 </li>
 <li> TA, SOC 20253: Introduction to Spatial Data Science, Fall 2016 </li>
 
-
+<br>
 University of Illinois at Chicago
-
 <li> Co-Instructor, Topics in Geospatial Analysis and Visualization: WebGIS, Summer 2018 </li>
 
-
+<br>
 Arizona State University
-
 <li> Instructor, GIS 311: Geographic Information Science II (Syllabus), 2015 </li>
 
-
+<br>
 Northwestern University
-
 <li> Co-Instructor, GBL 390: Refugee and Immigrant Health, 2012-2013 </li>
 
+<br>
 Roosevelt University
-
 <li> Internship, ENG 201: Writing Social Justice, 2010 </li>
 <li> Internship, ENG 102: Argument, Analysis, and Research, 2010 </li>
 
+<br>
 Princeton Review
-
 <li> Instructor, ACT Preparation, 2008-2013 </li>
