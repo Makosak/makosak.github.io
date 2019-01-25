@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Spatial Perspective on the Econometrics of Health Program Evaluation"
+excerpt: "A spatial framework for distilling causal relationships considers a more comprehensive understanding of how spatial effects may impact the data generating process, a more tuned approach to the nuances of how treatments may act differently in different places, and the extension and development of new tools to improve assignment and treatment estimates."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+With health inequalities increasing across major urban environments and potential place-based inequities under scrutiny, understanding treatment impacts across populations has become essential to local government and health department policy. This momentum is further heightened by calls to incorporate meaningful analytics with new types of Big Data in dynamic decision making. A core challenge to the determination of intervention efficacy remains in attributing underlying causal relationships where complicated processes may exist between individuals and neighborhoods. Spatial interaction and heterogeneity between units at individual or group levels can violate both components of the SUTVA assumption that are core to the counterfactual framework, making evaluation effects difficult to assess. A spatial framework for distilling causal relationships considers a more comprehensive understanding of how spatial effects may impact the data generating process, a more tuned approach to the nuances of how treatments may act differently in different places, and the extension and development of new tools to improve assignment and treatment estimates.
