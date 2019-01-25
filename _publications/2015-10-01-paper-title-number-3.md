@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ' Neighbourhood and network factors may relate to PrEP awareness, but have not been studied in YBMSM. This study aimed to examine the relationship of neighbourhood and network characteristics with PrEP awareness among YBMSM.'
 date: 2018-12-05
 venue: 'Sexually Transmitted Infections'
-citation: 'Chen, Y. T., Kolak, M., Duncan, D. T., Schumm, P., Michaels, S., Fujimoto, K., & Schneider, J. A. (2018). Neighbourhoods, networks and pre-exposure prophylaxis awareness: a multilevel analysis of a sample of young black men who have sex with men. Sex Transm Infect, sextrans-2018.'
+citation: 'Chen, Y.T., Kolak, M., Duncan, D.T., Schumm, P., Michaels, S., Fujimoto, K. and Schneider, J.A., 2018. Neighbourhoods, networks and pre-exposure prophylaxis awareness: a multilevel analysis of a sample of young black men who have sex with men. Sex Transm Infect, pp.sextrans-2018.'
 paperurl: 'https://sti.bmj.com/content/early/2018/12/05/sextrans-2018-053639.abstract'
 ---
 Young black men who have sex with men (YBMSM) in the USA represent a subgroup that has the highest HIV incidence among the overall population. In the USA, pre-exposure prophylaxis (PrEP) is an effective prevention intervention to prevent HIV acquisition when taken regularly. Neighbourhood and network factors may relate to PrEP awareness, but have not been studied in YBMSM. This study aimed to examine the relationship of neighbourhood and network characteristics with PrEP awareness among YBMSM.
