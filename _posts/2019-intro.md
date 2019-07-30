@@ -1,7 +1,7 @@
 ---
 title: 'Launching New Site'
 date: 2019-01-01
-permalink: /posts/2019/0/intro/
+permalink: /posts/2019-intro.md
 tags:
   - history
 ---
