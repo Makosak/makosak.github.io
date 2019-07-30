@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quantitative Geographer and Health Data Scientist"
+title: "Health Geographer and Data Scientist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
