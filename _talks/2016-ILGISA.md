@@ -8,6 +8,3 @@ date: 2016-05-01
 location: "Naperville, IL"
 ---
 
-[More information here](https://maryniak.files.wordpress.com/2016/08/ilgisa-2016.pdf)
-
-
