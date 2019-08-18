@@ -8,7 +8,11 @@ collection: portfolio
  
 Both risk environment vulnerabilities and health outcomes are multifaceted and spatially heterogeneous.  Geographically diverse rural environments present unique challenges to understanding risk environments and associated health outcomes. Some areas with high vulnerability may have mitigating protective factors that reduce poor outcomes. Future research may require more localized analysis, and must better address methodological challenges in sparsely populated locations. 
  
-Funding: UG3, UH3 - Ending transmission of HIV, HCV, and STDs and overdose in rural communities of people who inject drugs (ETHIC). PI: Mai Tuyet Pho. My role: Co-I, Spatial Epidemiologist
+Funding: UG3, UH3 - Ending transmission of HIV, HCV, and STDs and overdose in rural communities of people who inject drugs (ETHIC), NIH. 
+
+PI: Mai Tuyet Pho. 
+
+My role: Co-I, Spatial Epidemiologist
 
 Collaborators: Yen-Tyng Chen, Sam Joyce (UChicago RA), Kali Defever, Colleen McLuckie, Sam Friedman, Mai Tuyet Pho, Cara Bergo
 <li>University of Chicago, Center for Spatial Data Science</li>
