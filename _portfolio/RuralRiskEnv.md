@@ -1,6 +1,6 @@
 ---
 title: "Rural risk environments, opioid-related overdose, and infectious diseases"
-excerpt: "A geospatial, epidemiological study of Illinois, with a focus on rural Southern IL, to describe the relations of risk environments, opioid-related overdose, HIV, Hepatitis C, and STI rates ."
+excerpt: "A geospatial, epidemiological study of Illinois, with a focus on rural Southern IL, to describe the relations of risk environments, opioid-related overdose, HIV, Hepatitis C, and STI rates. Active."
 collection: portfolio
 ---
 
