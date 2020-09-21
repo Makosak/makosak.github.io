@@ -1,6 +1,11 @@
-
-Community-based Volunteered Geographic Information (VGI) could facilitate customized asset mapping to link free and accessible technologies with community needs in a mutually shared, knowledge-producing process. Such “community-engaged VGI” is essential in integrating previously siloed data systems and facilitating means of collaboration with health systems in urban health research and practice.
-
-Kolak, M., Steptoe, M., Manprisio, H., Azu-Popow, L., Hinchy, M., Malana, G., & Maciejewski, R. (2020). Extending Volunteered Geographic Information (VGI) with Geospatial Software as a Service: Participatory Asset Mapping Infrastructures for Urban Health. In Geospatial Technologies for Urban Health (pp. 209-230). Springer, Cham.
-
+---
+title: "Extending Volunteered Geographic Information (VGI) with Geospatial Software as a Service: Participatory Asset Mapping Infrastructures for Urban Health"
+collection: publications
+permalink: /publication/2019_VGIGeoSASS
+excerpt: 'Community-based Volunteered Geographic Information (VGI) could facilitate customized asset mapping to link free and accessible technologies with community needs in a mutually shared, knowledge-producing process. Such “community-engaged VGI” is essential in integrating previously siloed data systems and facilitating means of collaboration with health systems in urban health research and practice.'
+date: 2019-10-11
+venue: 'Geospatial Technologies for Urban Health (Springer)'
+citation: 'Kolak, M., Steptoe, M., Manprisio, H., Azu-Popow, L., Hinchy, M., Malana, G., & Maciejewski, R. (2020). Extending Volunteered Geographic Information (VGI) with Geospatial Software as a Service: Participatory Asset Mapping Infrastructures for Urban Health. In Geospatial Technologies for Urban Health (pp. 209-230). Springer, Cham.'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-19573-1_11'
+---
 Community asset mapping is an essential step in public health practice for identifying community strengths, needs, and urban health intervention strategies. Community-based Volunteered Geographic Information (VGI) could facilitate customized asset mapping to link free and accessible technologies with community needs in a mutually shared, knowledge-producing process. To address this issue, we demonstrate a participatory asset mapping infrastructure developed with a Chicago community using VGI concepts, participatory design principles, and geospatial Software as a Service (SaaS) using a suite of free and/or open tools. Participatory mapping infrastructures using decentralized system architecture can link data and mapping services, transforming siloed datasets to integrated systems managed and shared across multiple organizations. The final asset mapping infrastructure includes a flexible and cloud-based data management system, an interactive web map, and community asset data stream. By allowing for a dynamic, reproducible, adaptive, and participatory asset mapping system, health systems infrastructures can further support community health improvement frameworks by facilitating shared data and decision support implementations across health partners. Such “community-engaged VGI” is essential in integrating previously siloed data systems and facilitating means of collaboration with health systems in urban health research and practice.
